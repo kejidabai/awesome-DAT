@@ -78,19 +78,19 @@
 |       | [Strategy Tracker](https://strategytracker.com/)                                                            | Side-by-side comparison of major BTC DATs.                                        |
 | ETH   | [Strategic ETH Reserve](https://www.strategicethreserve.xyz/)                                               | ETH DAT dashboard.                                                                |
 | SOL   | [Strategic Solana Reserve](https://www.strategicsolanareserve.org/)                                         | SOL DAT dashboard.                                                                |
-| Multi | [Pantera: DATboard](https://datboard.panteraresearchlab.xyz/)                                               | Pantera DAT analytics.                                                            |
-|       | [CoinGecko: Treasuries](https://www.coingecko.com/en/treasuries)                                            | CoinGecko overview of corporate and government crypto treasury holdings.          |
-|       | [The Block: Treasuries](https://www.theblock.co/data/treasuries/bitcoin-treasuries)                         | The Block dashboard.                                                              |
-|       | [DeFiLlama: Digital Asset Treasuries](https://defillama.com/digital-asset-treasuries)                       | DeFiLlama aggregated view of DAT companies across multiple crypto assets.         |
-|       | [Artemis: Digital Asset Treasuries](https://app.artemisanalytics.com/digital-asset-treasuries?tab=overview) | Artemis analytics with detailed financials, mNAV trends, and treasury breakdowns. |
-|       | [Blockworks: Treasury Companies](https://blockworks.com/analytics/treasury-companies)                       | Blockworks analytics dashboard tracking DAT metrics and performance.              |
+| Multi | [Pantera: DATboard](https://datboard.panteraresearchlab.xyz/)                                               | Pantera DAT analytics. The most comprehensive metrics.                            |
+|       | [CoinGecko: Treasuries](https://www.coingecko.com/en/treasuries)                                            | Corporate and government crypto treasury. The most diverse tokens.                |
+|       | [The Block: Treasuries](https://www.theblock.co/data/treasuries/bitcoin-treasuries)                         | The Block dashboard. Good Visualization.                                          |
+|       | [DeFiLlama: Digital Asset Treasuries](https://defillama.com/digital-asset-treasuries)                       | Aggregated view of DAT companies across multiple crypto assets.                   |
+|       | [Artemis: Digital Asset Treasuries](https://app.artemisanalytics.com/digital-asset-treasuries?tab=overview) | Detailed financials, mNAV trends, and treasury breakdowns.                        |
+|       | [Blockworks: Treasury Companies](https://blockworks.com/analytics/treasury-companies)                       | Tracking DAT metrics and performance.                                             |
 
 ## Capital Markets
 
 ### Capital Raising Instruments
 
 | Title                     | Description                                                                                                                                                     |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SPAC                      | Special Purpose Acquisition Company; a blank-check shell that raises IPO capital then merges with a target to take it public.                                   |
 | de-SPAC                   | The closing merger between a SPAC and its target company, converting the target into a publicly traded entity.                                                  |
 | RTO                       | Reverse Takeover; a private company acquires a public shell to gain a listing without a traditional IPO.                                                        |
@@ -120,7 +120,7 @@
 ### Investment Banking
 
 | Title                                              | Description                                                                 |
-| -------------------------------------------------- | --------------------------------------------------------------------------- |
+| :------------------------------------------------- | :-------------------------------------------------------------------------- |
 | [Cantor Fitzgerald](https://www.cantor.com/)       | BTC-backed lending, DAT SPAC sponsor, and structured products.              |
 | [Barclays](https://www.barclays.com/)              | Convertible note underwriting for DATs; dedicated digital assets team.      |
 | [Clear Street](https://www.clearstreet.io/)        | Cloud-native prime brokerage and IB advisory for crypto treasury companies. |
@@ -171,7 +171,7 @@
 ### BTC
 
 | Ticker                                    | Company                 | Exchange | Description                                                                                                                                            |
-| ----------------------------------------- | ----------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :----------------------------------------- | :----------------------- | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [MSTR](https://www.strategy.com/)         | MicroStrategy           | NASDAQ   | The DAT pioneer led by **Michael Saylor**; employs a leveraged "BTC Yield" strategy to drive per-share BTC accretion through debt issuance.            |
 | [XXI](https://www.twentyonecapital.com/)  | Twenty One Capital      | NYSE     | The 3rd largest public holder of BTC; funded by **Tether**.                                                                                            |
 | [3350.T](https://metaplanet.jp/)          | Metaplanet              | TSE      | Dubbed "Asia's MSTR"; leverages Japan's low-interest environment to accumulate BTC via aggressive debt and warrants.                                   |
@@ -185,7 +185,7 @@
 ### ETH
 
 | Ticker                               | Company              | Exchange | Description                                                                                                                                                        |
-| ------------------------------------ | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :------------------------------------ | :-------------------- | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [BMNR](https://www.bitmine.com/)     | Bitmine Immersion    | AMEX     | Chaired by **Tom Lee** (famed Wall Street analyst); holds one of the largest institutional ETH treasuries.                                                         |
 | [SBET](https://www.sharplink.com/)   | Sharplink            | NASDAQ   | Chaired by Ethereum co-founder **Joseph Lubin**, with former BlackRock crypto chief **Joseph Chalom** as co-CEO.                                                   |
 | [BTBT](https://www.bitdigital.com/)  | Bit Digital          | NASDAQ   | Led by **Sam Tabar**; famously liquidated all BTC for ETH to focus on a dual-engine model of "ETH Staking" and "AI High-Performance Computing."                    |
@@ -195,7 +195,7 @@
 ### SOL
 
 | Ticker                                 | Company            | Exchange | Description                                                                                                                                                                                                                           |
-| -------------------------------------- | ------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------------------------------- | :------------------ | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [FWDI](https://forwardindustries.com/) | Forward Industries | NASDAQ   | Chaired by **Kyle Samani** (Multicoin Capital) with support from **Galaxy Digital** and **Jump Capital**; the world's largest public SOL holder focusing on validator infrastructure and tokenized "FWDI" equity on-chain.            |
 | [HSDT](https://solanacompany.co/)      | Solana Company     | NASDAQ   | Led by Executive Chairman **Joseph Chee** (ex-UBS) and partnered with **Pantera Capital**; pioneer of the "DAT 2.0" model aiming to accumulate 5% of SOL supply as a bridge for institutional capital in Asia.                        |
 | [SLMT](https://solmate.com/)           | Solmate            | NASDAQ   | Led by CEO **Marco Santori** (ex-Kraken) and backed by **Cathie Wood (ARK)**; adopts an "Infrastructure First" strategy based in the UAE, utilizing bare-metal validators and direct discounted SOL acquisitions from the Foundation. |
@@ -206,7 +206,7 @@
 ### Alts
 
 | Token | Ticker                                          | Company                 | Exchange | Description                                                                                                                                                                                       |
-| ----- | ----------------------------------------------- | ----------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :----- | :----------------------------------------------- | :----------------------- | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BNB   | [BNC](https://www.ceaindustries.com/)           | CEA Industries Inc.     | NASDAQ   | Led by **David Namdar** (Galaxy Digital co-founder); the world's largest public BNB treasury with a goal to own 1% of total supply, focusing on BNB as the "utility fulcrum" of Web3.             |
 | TRX   | [TRON](https://srmentertainment.com/)           | Tron Inc.               | NASDAQ   | Led by CEO **Rich Miller** and endorsed by **Justin Sun**; executes a high-conviction "360-day daily buy program" to solidify its position as the largest institutional TRX holder.               |
 | XRP   | [VVPR](https://vivopower.com/)                  | VivoPower International | NASDAQ   | Transitioned from energy to a digital asset powerhouse; partners with **Flare Network** to generate institutional yield on XRP while powering AI data centers via its sustainable infrastructure. |
@@ -224,7 +224,7 @@
 ### Crypto Fund
 
 | Title                                                | Description                                                                                                          |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | [Anagram](https://anagram.xyz/)                      | Crypto-native fund and holding company building and investing in Web3 ownership economy projects.                    |
 | [Animoca Brands](https://animocabrands.com/)         | Hong Kong-based Web3 conglomerate; 600+ portfolio investments across gaming, metaverse, and NFTs.                    |
 | [Arca](https://ar.ca/)                               | Digital assets investment manager; launched the first '40 Act registered fund issuing shares as digital securities.  |
@@ -262,7 +262,7 @@
 ### Hedge Fund
 
 | Title                                                  | Description                                                                                                    |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| :------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
 | [Ark Invest](https://ark-invest.com/)                  | Cathie Wood's innovation-focused asset manager; runs ARKB Bitcoin ETF and actively invests in crypto equities. |
 | [Alyeska Group](https://alyeskagroup.com/)             | Multi-strategy hedge fund with crypto exposure via DAT equity positions (e.g. SharpLink/ETH treasury).         |
 | [Highbridge](https://www.highbridge.com/)              | JPMorgan-backed alternative asset manager ($4B+ AUM); credit and convertible strategies with DAT exposure.     |
